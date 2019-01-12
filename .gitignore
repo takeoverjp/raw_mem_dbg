@@ -1,0 +1,8 @@
+draw_circle
+*.o
+*~
+*.dump
+*.text
+*.debug
+*.gdb
+*.elf
